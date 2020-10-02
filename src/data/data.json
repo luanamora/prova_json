@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "nome": "Teste",
+    "email": "teste@gmail.com",
+    "cpf": "12345612358",
+    "telefone": "44997344336"
+  },
+  {
+    "id": "2",
+    "nome": "Luana Cristina de Mora",
+    "email": "lcmora@gmail.com",
+    "cpf": "10393793986",
+    "telefone": "4499834616"
+  }
+]
